@@ -6,6 +6,10 @@
 }
 
 .bird-food-image{
-    border-radius: 175px;
     border: 6px double rgb(0, 0, 0);
+    vertical-align: center;
+}
+
+.food-info{
+    font-size: 15px;
 }
